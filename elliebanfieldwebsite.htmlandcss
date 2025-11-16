@@ -1,10 +1,13 @@
 <!doctype html>
 <html>
 <head>
-<link rel="stylesheet" text/css href="https://elliebanfield.github.io/elliebanfieldwebsite.htmlandcss">
-</head>
 <meta charset="UTF-8">
 <title>Ellie Banfield's Website</title>
+<link rel="stylesheet" text/css href="https://elliebanfield.github.io/elliebanfieldwebsite.htmlandcss">
+<style>
+
+
+
 
 <style>
 #title {
@@ -43,8 +46,7 @@
     font-size: 18px;
 }
 </style>
-
-
+</head>
 <body>
 
 <p id="title">Ellie Banfield</p>
