@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
 <head>
+<link rel="stylesheet" text/css href="https://elliebanfield.github.io/elliebanfieldwebsite.htmlandcss">
+</head>
 <meta charset="UTF-8">
 <title>Ellie Banfield's Website</title>
 
@@ -41,7 +43,7 @@
     font-size: 18px;
 }
 </style>
-</head>
+
 
 <body>
 
